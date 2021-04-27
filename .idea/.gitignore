@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../lawfully-frontity\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\charl\IdeaProjects\lawfully-frontity\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

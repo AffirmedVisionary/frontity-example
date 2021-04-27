@@ -1,0 +1,114 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "4779b80520359b65b855",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\charl\\IdeaProjects\\lawfully-frontity\\build\\static",
+  "assetsByChunkName": {
+    "lawfully-frontity": [
+      "lawfully-frontity.module.js",
+      "lawfully-frontity.c3ce54c8e83c25293211.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "c3ce54c8e83c25293211.hot-update.json",
+      "size": 59,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "lawfully-frontity.c3ce54c8e83c25293211.hot-update.js",
+      "size": 4656,
+      "chunks": [
+        "lawfully-frontity"
+      ],
+      "chunkNames": [
+        "lawfully-frontity"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "lawfully-frontity.module.js",
+      "size": 6317858,
+      "chunks": [
+        "lawfully-frontity"
+      ],
+      "chunkNames": [
+        "lawfully-frontity"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "lawfully-frontity": {
+      "chunks": [
+        "lawfully-frontity"
+      ],
+      "assets": [
+        "lawfully-frontity.module.js",
+        "lawfully-frontity.c3ce54c8e83c25293211.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "lawfully-frontity": {
+      "chunks": [
+        "lawfully-frontity"
+      ],
+      "assets": [
+        "lawfully-frontity.module.js",
+        "lawfully-frontity.c3ce54c8e83c25293211.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": "lawfully-frontity",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 1581533,
+      "names": [
+        "lawfully-frontity"
+      ],
+      "files": [
+        "lawfully-frontity.module.js",
+        "lawfully-frontity.c3ce54c8e83c25293211.hot-update.js"
+      ],
+      "hash": "001ba16c8a133f29458b",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    }
+  ],
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": [],
+  "generator": "loadable-components"
+}
